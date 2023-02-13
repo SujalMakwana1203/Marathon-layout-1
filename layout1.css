@@ -1,0 +1,45 @@
+
+.row .logo{
+    height: 10%;
+    width: 7%;
+    top: 0;
+    
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    
+    
+    
+
+}
+
+.fst-img{
+    position: relative;
+    align-items: center;
+    height: 100%;
+    width: 90%;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+    
+}
+.heading{
+
+}
+.Medical_clinic{
+    align-items: center;
+    background-color: dodgerblue;
+    color: white;
+    margin: 20px;
+    padding: 5%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+section{
+    padding: 20px;
+}
+
+
+
