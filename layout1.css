@@ -1,4 +1,3 @@
-
 .row .logo{
     height: 10%;
     width: 7%;
@@ -30,16 +29,52 @@
     align-items: center;
     background-color: dodgerblue;
     color: white;
-    margin: 20px;
-    padding: 5%;
-    margin-left: 40%;
-    margin-right: 40%;
+   
+  
     border-top-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
+.Let_us{
+    background-color: #36cacf;
+    color: white;
+
+}
 section{
     padding: 20px;
+    margin-top: 20px;
 }
+.about h5{
+    color: #036DB9;
+    padding-right: 30px;
+    padding-top: 50%;
+}
+.us{
+    font-weight: bold;
+    color: #036DB9;
+    
+    
+    font-size: 60px;
 
+}
+.lets_content {
+    color: #036DB9;
+}
+.fst_hr{
+    color: black;
+}
+.Special_attention h3 {
+    margin-left: 50%;
+    text-align: right;
+    color: #036DB9;
 
-
+}
+.quote{
+    color: gray;    
+}
+.tfh_line{
+    background-color: black;
+    
+}
+.tfh,.mobile,.covid{
+    
+}
