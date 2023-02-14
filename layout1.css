@@ -3,8 +3,8 @@
 .logo  img{
     height: 45px;
     width: 52px;
-    margin-left: 65%;
-    margin-top: 1.5 %;
+    margin-left: 10%;
+    margin-top: 0.5%;
 
 }
 .logo {
@@ -17,22 +17,23 @@
 .logo_content{
     
     bottom: 0;
-    margin-left: -40%;
-    margin-top: 2%;
+    margin-left: -75%;
+    margin-top: 1.5%;
 
 }
 .fst-img{
     position: relative;
     height: 80%;
     width:80%;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 18%;
+    margin-right: 90%;
     border-radius: 0 0 40px 40px;
+    
 }
 
 .Medical_clinic h1{
     position: absolute;
-    background-color: dodgerblue;
+    background-color: #036DB9;
     color: white;
     text-align: center;
     padding: 10px 20px 10px  20px;
@@ -41,8 +42,9 @@
     left: 32%;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    
 }
-.Let_us{
+.Let_us h5{
     position: absolute;
     background-color: #36cacf;
     color: white;
@@ -50,21 +52,21 @@
     padding: 0 10px 0  10px;
     bottom: 65;
     
-    right: 38%;
-    left: 38%;
+    right: 36%;
+    left: 36%;
 }
 /*header End*/
 /*Section Start*/
 
 .about h5{
     color: #036DB9;
-    padding-right: 30px;
-    padding-top: 60%;
+    padding-right: 20%;
+    padding-top: 40%;
 }
 .us{
     font-weight: bold;
     color: #036DB9;
-    padding-left: 20%;
+    padding-left: 5%;
     
     font-size: 60px;
 
@@ -106,12 +108,16 @@
 .contact_us{
     color: #036DB9;
 }
+.www{
+    padding: 5px;
+}
 .scanner img{
-    width: 2.5%;
+    width: 5.5%;
     
+    margin-left: 2px;
 }
 .socialmedia img{
-    width: 2.5%;
+    width: 8%;
     color: #036DB9; 
 }
 .Services{
@@ -134,6 +140,7 @@
     border-radius: 40px 0 0 0 ;
     color: white;
     margin-left: 20%;
+    text-align: right;
 }   
 .merge{
     background-color: #36cacf;
@@ -147,19 +154,21 @@
 
 .Lorem p,h4{
     text-align: right;
-    margin-top: 7%;
-    font-size: 90%;
+    margin-top: 9%;
+    font-size: 12;
+    padding-left: 70px;
+    padding-right: 5px;
     
 }
 .scan img{
-   
+   position: absolute;
     background-color: #036DB9;
     height: 18%;
-    width:30%;
     
+    bottom: 0;
     border: 1px solid;
     padding: 10px;
-    margin-left: -20%;
+    margin-left: -10%;
     
     border-radius: 30px 0 30px 0;
     
